@@ -1,0 +1,23 @@
+{
+		"Contact Details": "Email enquiries@nhsdigital.nhs.uk  Telephone 0300 303 5678",
+		"Data type": ", CSV",
+		"Description": "This is a three-year rolling mortality indicator presented as a standardised mortality ratio. It is aimed at measuring the national and local standardised mortality ratio of the learning disabilities population compared to the general population. People with learning disabilities often have a shorter life expectancy than that of the general population. Some of the causes of mortality amongst this population are thought to be premature and preventable, this indicator therefore presents a useful contribution to monitoring improvements in the rates of mortality in the learning disabilities population.",
+		"Dimensions": "",
+		"Family": "Learning Difficulties",
+		"Frequency": "Annual",
+		"Landing Page": "https://digital.nhs.uk/data-and-information/publications/statistical/health-and-care-of-people-with-learning-disabilities/standardised-mortality-ratio-indicator",
+		"Last Published": "2019-09-26",
+		"Name": "Health and Care of People with Learning Disabilities Standardised Mortality Ratio Indicator",
+		"Next Due": "",
+		"Notes": "",
+		"PMD v3 publication": "",
+		"Producer": "NHS Digital (NHS-D)",
+		"Route from landing page to data": "Data can be located on this landing page under Resources there are 2  CSV files.",
+		"Size": "Small",
+		"Sizing Notes": "Large CSV table with simple structure and dimension.",
+		"Stage": "Candidate",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":114
+		}
+}

@@ -1,0 +1,23 @@
+{
+		"Contact Details": "Statistics and Research Branch The Executive Office Room E4.03 | Castle Buildings | Stormont | Belfast | BT4 3SR Contact: PublicAppointmentsDatabase@executiveoffice-ni.gov.uk Tel: (028) 9052 8222",
+		"Data type": ", XLS, ODS",
+		"Description": "The Public Appointments Annual Report provides statistics relating to public appointments in Northern Ireland in 2016/17.",
+		"Dimensions": "",
+		"Family": "Disabilities",
+		"Frequency": "Annual",
+		"Landing Page": "https://www.executiveoffice-ni.gov.uk/topics/public-appointments-reports",
+		"Last Published": "2018-09-27",
+		"Name": "Public Appointments Annual Report",
+		"Next Due": "",
+		"Notes": "1 spreadsheet with multiple tables per spreadsheet.  1.5 and 3.5 contain disability information.",
+		"PMD v3 publication": "",
+		"Producer": "The Executive Office Northern Ireland (NIEO)",
+		"Route from landing page to data": "Data can be found by clicking on the link under current publications.  Data tables are available in ODS and XLS.",
+		"Size": "Large",
+		"Sizing Notes": "Simple table formats however each tab contains a different number of  tables with inconsistencies across the tabs,  table 1.5 and 3.3 contain disability information by numbers and %.  This dataset may be better suited to the labour market family.",
+		"Stage": "Candidate",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":26
+		}
+}

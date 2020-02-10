@@ -1,0 +1,23 @@
+{
+		"Contact Details": "Department for Communities Telephone: 028 9082 9000 ",
+		"Data type": ", XLS",
+		"Description": "The Northern Ireland Housing Statistics report is an annual compendium of statistics containing information on a range of areas relating to housing. The report is divided into sections covering: Energy.",
+		"Dimensions": "",
+		"Family": "Affordable Housing",
+		"Frequency": "Annual",
+		"Landing Page": "https://www.communities-ni.gov.uk/publications/northern-ireland-housing-statistics-2017-18",
+		"Last Published": "2018-12-04",
+		"Name": "Northern Ireland Housing Statistics 2017-18: Energy",
+		"Next Due": "2019-12-04",
+		"Notes": "Source: NIHE, NI House Condition Survey",
+		"PMD v3 publication": "",
+		"Producer": "Northern Ireland Department for Communities (NIDfC)",
+		"Route from landing page to data": "Data on this page identified as an Excel file entitled Northern Ireland Housing Statistics 2017-18 Section 2 Tables - Energy under heading Documents.",
+		"Size": "Small",
+		"Sizing Notes": "Compendia of 5 tables with no obvious commonality.",
+		"Stage": "Prioritized",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":105
+		}
+}

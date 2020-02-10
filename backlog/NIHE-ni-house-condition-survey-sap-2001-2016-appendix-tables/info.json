@@ -1,0 +1,23 @@
+{
+		"Contact Details": "Karly Greene (Lead Statistical Official), Phone: 02895 982540, Karly.Greene@nihe.gov.uk Jahnet Brown, Phone: 02895 982548, Jahnet.Brown@nihe.gov.uk nihcs@nihe.gov.uk",
+		"Data type": ", XLS",
+		"Description": "Energy efficiency of the stock in Northern Ireland. [Northern Ireland House Condition Survey SAP (Standard Assessment Procedure) Time Series]. (Basically a subset of House Condition Survey Main Data Tables but with previous years data)",
+		"Dimensions": "",
+		"Family": "Affordable Housing Characteristics",
+		"Frequency": "",
+		"Landing Page": "https://www.nihe.gov.uk/Working-With-Us/Research/House-Condition-Survey",
+		"Last Published": "2018-05-31",
+		"Name": "NI house condition survey sap 2001-2016 appendix tables",
+		"Next Due": "",
+		"Notes": "Summary of data relating to housing energy efficiency contained in NI Housing Condition Survey 2016 but with previous years' data also. Produced by the Housing Executive's Research Unit.",
+		"PMD v3 publication": "",
+		"Producer": "Northern Ireland Housing Executive (NIHE)",
+		"Route from landing page to data": "Data on this page identified under heading Download the 2016 reports below: (towards the bottom of the page), labelled as ni house condition survey sap 2001-2016 appendix tables",
+		"Size": "Large",
+		"Sizing Notes": "Series of multi-table tabs, but only simple dimensions",
+		"Stage": "Backlog",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":52
+		}
+}

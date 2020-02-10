@@ -1,0 +1,23 @@
+{
+		"Contact Details": "Public Health England",
+		"Data type": ", Fingertips, CSV",
+		"Description": "This profile is designed to support planners, providers and stakeholders to plan services, undertake needs assessments and benchmark against similar populations. It brings together available metrics around mental health in pregcy, the postnatal period and babies aged <1 year.",
+		"Dimensions": "",
+		"Family": "Mental Health",
+		"Frequency": "Annual",
+		"Landing Page": "https://fingertips.phe.org.uk/profile-group/mental-health/profile/perinatal-mental-health",
+		"Last Published": "",
+		"Name": "Perinatal Mental Health",
+		"Next Due": "",
+		"Notes": "",
+		"PMD v3 publication": "",
+		"Producer": "Public Health England (PHE)",
+		"Route from landing page to data": "Data can be located by clicking on the Green box named 'Start Go to the data' to the right of the introduction.",
+		"Size": "Small",
+		"Sizing Notes": "Fingertips data, may be better suited to the mental health family.",
+		"Stage": "Candidate",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":90
+		}
+}

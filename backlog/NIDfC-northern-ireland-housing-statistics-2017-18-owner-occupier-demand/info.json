@@ -1,0 +1,23 @@
+{
+		"Contact Details": "Department for Communities Telephone: 028 9082 9000 ",
+		"Data type": ", XLS",
+		"Description": "The Northern Ireland Housing Statistics report is an annual compendium of statistics containing information on a range of areas relating to housing. The report is divided into sections covering: Owner Occupier Demand.",
+		"Dimensions": "",
+		"Family": "Affordable Housing",
+		"Frequency": "Annual",
+		"Landing Page": "https://www.communities-ni.gov.uk/publications/northern-ireland-housing-statistics-2017-18",
+		"Last Published": "2018-12-04",
+		"Name": "Northern Ireland Housing Statistics 2017-18: Owner Occupier Demand",
+		"Next Due": "2019-12-04",
+		"Notes": "",
+		"PMD v3 publication": "",
+		"Producer": "Northern Ireland Department for Communities (NIDfC)",
+		"Route from landing page to data": "Data on this page identified as an Excel file entitled Northern Ireland Housing Statistics 2017-18 Section 5 Tables - Owner Occupier Demand under heading Documents.",
+		"Size": "Large",
+		"Sizing Notes": "simple tables, but the dimensions are messy and in some cases compund, with mixed measures used.  Needs a lot of up front anaysys",
+		"Stage": "Backlog",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":71
+		}
+}

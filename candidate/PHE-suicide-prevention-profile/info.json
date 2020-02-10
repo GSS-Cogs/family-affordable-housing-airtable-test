@@ -1,0 +1,23 @@
+{
+		"Contact Details": "Public Health England",
+		"Data type": ", Fingertips, CSV",
+		"Description": "It has been produced to help develop understanding at a local level and support an intelligence driven approach to suicide prevention. It collates and presents a range of publically available data on suicide, associated prevalence, risk factors, and service contact among groups at increased risk. It provides planners, providers and stakeholders with the means to profile their area and benchmark against similar populations.",
+		"Dimensions": "",
+		"Family": "Mental Health",
+		"Frequency": "Annual",
+		"Landing Page": "https://fingertips.phe.org.uk/profile-group/mental-health/profile/suicide",
+		"Last Published": "",
+		"Name": "Suicide Prevention Profile",
+		"Next Due": "",
+		"Notes": "",
+		"PMD v3 publication": "",
+		"Producer": "Public Health England (PHE)",
+		"Route from landing page to data": "Data can be located by clicking on the Green box named 'Start Go to the data' to the right of the introduction.",
+		"Size": "Small",
+		"Sizing Notes": "Fingertips data , may be better suited to the mental health family.",
+		"Stage": "Candidate",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":17
+		}
+}

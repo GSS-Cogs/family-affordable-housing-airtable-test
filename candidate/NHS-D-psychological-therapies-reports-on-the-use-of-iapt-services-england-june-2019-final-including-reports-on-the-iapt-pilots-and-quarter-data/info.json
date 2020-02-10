@@ -1,0 +1,23 @@
+{
+		"Contact Details": "enquiries@nhsdigital.nhs.uk 0300 303 5678",
+		"Data type": ", XLS, CSV",
+		"Description": "This statistical release makes available the most recent Improving Access to Psychological Therapies (IAPT) monthly data, including activity, waiting times, and outcomes such as recovery.",
+		"Dimensions": "",
+		"Family": "Mental Health",
+		"Frequency": "Monthly",
+		"Landing Page": "https://digital.nhs.uk/data-and-information/publications/statistical/psychological-therapies-report-on-the-use-of-iapt-services",
+		"Last Published": "2019-12-13",
+		"Name": "Psychological Therapies: reports on the use of IAPT services, England June 2019 final including reports on the IAPT pilots and Quarter data",
+		"Next Due": "2020-01-13",
+		"Notes": "This release also includes experimental statistics from the IAPT integrated health pilot and the IAPT Employment Adviser pilot.",
+		"PMD v3 publication": "",
+		"Producer": "NHS Digital (NHS-D)",
+		"Route from landing page to data": "Data on this page identified via a link at top of page under heading Summary then Latest version. This will link to another page with the latest data, identified on page under heading Resources as a series of tables in XLS and CSV format.",
+		"Size": "Large",
+		"Sizing Notes": "Large mutiple dimensions CSV files contains mothnly activity data but additional data included in other XLS files with messy tables, dimensions and footmotes.",
+		"Stage": "Candidate",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":3
+		}
+}

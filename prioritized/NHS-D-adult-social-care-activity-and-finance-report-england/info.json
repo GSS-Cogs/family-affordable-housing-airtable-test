@@ -1,0 +1,23 @@
+{
+		"Contact Details": "",
+		"Data type": ", XLS",
+		"Description": "This publication contains data taken from the Adult Social Care Fice Return (ASC-FR) and Short and Long Term (SALT) collection to provide information regarding adult social care activity and fice on local authorities in England for 2018-19.",
+		"Dimensions": "",
+		"Family": "Care",
+		"Frequency": "Annual",
+		"Landing Page": "https://digital.nhs.uk/data-and-information/publications/statistical/adult-social-care-activity-and-fice-report/2018-19",
+		"Last Published": "2019-10-22",
+		"Name": "Adult Social Care Activity and Fice Report, England",
+		"Next Due": "",
+		"Notes": "",
+		"PMD v3 publication": "",
+		"Producer": "NHS Digital (NHS-D)",
+		"Route from landing page to data": "",
+		"Size": "Large",
+		"Sizing Notes": "Simple table structures. Large number of tables, not all same structure. Multiple dimensions and sub dimensions, several footnotes.",
+		"Stage": "Prioritized",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":74
+		}
+}

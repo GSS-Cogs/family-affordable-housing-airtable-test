@@ -1,0 +1,23 @@
+{
+		"Contact Details": "Contact: ncrasenquiries@phe.gov.uk",
+		"Data type": ", XLS",
+		"Description": "Estimated proportion of all maligt cancers where patients first presented as an emergency.",
+		"Dimensions": "",
+		"Family": "Cancer",
+		"Frequency": "Quarterly",
+		"Landing Page": "http://www.ncin.org.uk/cancer_type_and_topic_specific_work/topic_specific_work/cancer_outcome_metrics",
+		"Last Published": "2019-10-10",
+		"Name": "Emergency presentations of cancer",
+		"Next Due": "",
+		"Notes": "The landing page contains two spreadsheets 1 by CCG and 1 by cancer alliance",
+		"PMD v3 publication": "",
+		"Producer": "Public Health England (PHE)",
+		"Route from landing page to data": "Data can be located on this landing page.  Under Official Statistics: Emergency Presentations, click on the top 2 links to open  2 XLS spreadsheets 1 by CCG and 1 by Cancer Alliance.",
+		"Size": "Small",
+		"Sizing Notes": "Simple tables with 4 dimensions, potentilly quick win.",
+		"Stage": "Candidate",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":63
+		}
+}

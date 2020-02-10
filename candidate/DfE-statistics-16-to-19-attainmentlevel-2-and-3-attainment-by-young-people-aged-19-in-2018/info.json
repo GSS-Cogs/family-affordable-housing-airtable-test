@@ -1,0 +1,23 @@
+{
+		"Contact Details": "Post-16 statistics team Email post16.statistics@education.gov.uk Telephone: Suzanne Wallace/Ann Claytor 020 7654 6191/0114 274 2515",
+		"Data type": ", XLS",
+		"Description": "Statistics on the attainment of 16- to 19-year-olds in England, including exam results and performance tables.",
+		"Dimensions": "",
+		"Family": "Special Educational Needs",
+		"Frequency": "Annual",
+		"Landing Page": "https://www.gov.uk/government/statistics/level-2-and-3-attainment-by-young-people-aged-19-in-2018",
+		"Last Published": "2019-04-04",
+		"Name": "Statistics: 16 to 19 attainment Level 2 and 3 attainment by young people aged 19 in 2018",
+		"Next Due": "2020-04-04",
+		"Notes": "Includes attainment statistics of people with Special Education Needs",
+		"PMD v3 publication": "",
+		"Producer": "Department for Education (DfE)",
+		"Route from landing page to data": "Data on this page identified under heading Documents as a series of XLS tables and a zip file underlying data containing both XLS and CSV files.",
+		"Size": "Small",
+		"Sizing Notes": "Tables T20 to T23 hold special educational needs data. Simple table structure, multidimensional with some sub-dimensions. T7 - 11 include Special Educational Need (SEN) status in Year 11 & Primary type of Special Educational Need in Year 11. T13c includes SEN status T4 & T5 may need to discuss with stakeholder if SEN included?  Would need to check zip file to see if the csv matches the spreadsheets?",
+		"Stage": "Candidate",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":94
+		}
+}

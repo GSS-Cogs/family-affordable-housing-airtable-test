@@ -1,0 +1,23 @@
+{
+		"Contact Details": "Author: Adult Social Care Statistics Team, NHS Digital WWW.digital.nhs.uk Responsible Statistician: Tony Child enquiries@nhsdigital.nhs.uk ",
+		"Data type": ", XLS, CSV",
+		"Description": "This report contains information on 112,200 jobs for people employed (directly and indirectly) by local authority adult social services departments in England",
+		"Dimensions": "",
+		"Family": "getFamily: index 0 is out of bounds for axis 0 with size 0",
+		"Frequency": "Annual",
+		"Landing Page": "https://digital.nhs.uk/data-and-information/publications/statistical/personal-social-services-staff-of-social-services-departments",
+		"Last Published": "2019-02-28",
+		"Name": "Personal Social Services: Staff of Social Services Departments, England",
+		"Next Due": "2020-02-27",
+		"Notes": "This data set is concerned with the employment of people employed by LA socal services departments in England and may therefore sit better within the labour market family.",
+		"PMD v3 publication": "",
+		"Producer": "NHS Digital (NHS-D)",
+		"Route from landing page to data": "Data can be found on the landing page by clicking on the link under latest version.  2 x XLS Spreadsheets and 1 CSV file can be found under Resources",
+		"Size": "Needs discussion",
+		"Sizing Notes": "A large number of complex tables which will require some thought about dimensions.  The dataset may be better suited to the labour market family.",
+		"Stage": "Candidate",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":100
+		}
+}

@@ -1,0 +1,23 @@
+{
+		"Contact Details": "Author: Screening & Immunisations Team, NHS Digital Responsible Statistician: Sally Jones Email enquiries@nhsdigital.nhs.uk Telephone 0300 303 5678",
+		"Data type": ", CSV",
+		"Description": "This report presents provisional statistics summarising the NHS Breast Screening Programme in England in 2017-18. It includes data on the number of women invited for breast screening, coverage, uptake of invitations and cancers detected. National level data is presented in the report.",
+		"Dimensions": "",
+		"Family": "Cancer",
+		"Frequency": "Annual",
+		"Landing Page": "https://digital.nhs.uk/data-and-information/publications/statistical/breast-screening-programme",
+		"Last Published": "2019-12-19",
+		"Name": "Breast Screening Programme",
+		"Next Due": "2020-01-30",
+		"Notes": "",
+		"PMD v3 publication": "",
+		"Producer": "NHS Digital (NHS-D)",
+		"Route from landing page to data": "Data can be located by clicking on the link under latest version.  Scroll down to resources and 3 CSV file are located in the Zip file.",
+		"Size": "Small",
+		"Sizing Notes": "Simple structure and dimensions.",
+		"Stage": "Candidate",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":46
+		}
+}

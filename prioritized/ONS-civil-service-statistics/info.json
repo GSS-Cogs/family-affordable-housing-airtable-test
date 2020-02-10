@@ -1,0 +1,23 @@
+{
+		"Contact Details": "",
+		"Data type": ", XLS",
+		"Description": "Annual data on Civil Service employment in the UK, including gender, ethnicity, disability status, earnings and location of the Civil Service workforce",
+		"Dimensions": "",
+		"Family": "Disabilities",
+		"Frequency": "Annual",
+		"Landing Page": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/publicsectorpersonnel/datasets/civilservicestatistics",
+		"Last Published": "2018-08-03",
+		"Name": "Civil Service statistics",
+		"Next Due": "",
+		"Notes": "Table 3 Civil Service employment by disability status and responsibility level.",
+		"PMD v3 publication": "",
+		"Producer": "Office for National Statistics (ONS)",
+		"Route from landing page to data": "",
+		"Size": "Needs discussion",
+		"Sizing Notes": "Table structures not simple. Multiple dimensions and subdimensions. Several footnotes. Total of 41 tables but only table 3 has disability data.",
+		"Stage": "Prioritized",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":97
+		}
+}

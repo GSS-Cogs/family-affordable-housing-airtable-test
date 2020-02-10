@@ -1,0 +1,23 @@
+{
+		"Contact Details": "",
+		"Data type": ", XLS",
+		"Description": "Information on local authority homelessness applications, assessments and outcomes along with information on the use of temporary accommodation.",
+		"Dimensions": "",
+		"Family": "Disabilities",
+		"Frequency": "Annual",
+		"Landing Page": "https://www2.gov.scot/Topics/Statistics/Browse/Housing-Regeneration/RefTables",
+		"Last Published": "2019-06-12",
+		"Name": "Homelessness in Scotland: Annual Publication",
+		"Next Due": "",
+		"Notes": "This data set is about homelessness in Scotland however Table 10 and data tab 9 relate to disabilities",
+		"PMD v3 publication": "",
+		"Producer": "Scottish Government (SG)",
+		"Route from landing page to data": "",
+		"Size": "Needs discussion",
+		"Sizing Notes": "Messy and complex tables with little disability data. Put on hold for further discussion.",
+		"Stage": "Prioritized",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":93
+		}
+}
