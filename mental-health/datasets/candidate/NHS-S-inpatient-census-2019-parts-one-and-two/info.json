@@ -1,0 +1,23 @@
+{
+		"Contact Details": "Email: SWStat@gov.scot",
+		"Data type": ", XLS",
+		"Description": "Results of the fifth Mental Health & Learning Disability Inpatient Census and Out of Scotland NHS Placements Census, 2019.",
+		"Dimensions": "",
+		"Family": "Mental Health",
+		"Frequency": "Annual",
+		"Landing Page": "https://www.gov.scot/publications/inpatient-census-2019-part-1-mental-health-learning-disability-inpatient-bed-census-part-2-out-scotland-nhs-placements/",
+		"Last Published": "2019-10-08",
+		"Name": "Inpatient Census 2019: parts one and two",
+		"Next Due": "2020-10-08",
+		"Notes": "Accessing the Publications link at top LHS of page lists >13k publications but a search of Inpatient Census reveals other potential relevant data, including Part Three of this census and associate XLS spreadsheet. Future inclusion requires discussion.",
+		"PMD v3 publication": "",
+		"Producer": "NHS Scotland (NHS-S)",
+		"Route from landing page to data": "Data on this page accessed via Supporting files link top RHS of page.",
+		"Size": "Large",
+		"Sizing Notes": "Messy structure, multiple tables on same tab, multiple dimensions with subdimensions and multiple footnotes.",
+		"Stage": "Candidate",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":83
+		}
+}

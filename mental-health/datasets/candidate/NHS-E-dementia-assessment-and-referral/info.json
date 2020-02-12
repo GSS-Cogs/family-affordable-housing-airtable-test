@@ -1,0 +1,23 @@
+{
+		"Contact Details": "Email: england.dementia@nhs.net",
+		"Data type": ", XLS, CSV",
+		"Description": "This data collection reports on the number and proportion of patients aged 75 and over admitted as an emergency for more than 72 hours in England who have been identified as potentially having dementia, who are appropriately assessed and, where appropriate, referred on to specialist services.",
+		"Dimensions": "",
+		"Family": "Mental Health",
+		"Frequency": "Monthly /Quarterly",
+		"Landing Page": "https://www.england.nhs.uk/statistics/statistical-work-areas/dementia/",
+		"Last Published": "2019-12-04",
+		"Name": "Dementia Assessment and referral",
+		"Next Due": "",
+		"Notes": "",
+		"PMD v3 publication": "",
+		"Producer": "NHS England (NHS-E)",
+		"Route from landing page to data": "Data can be located  by scrolling down to Data Publications and clicking on the latest publication.  Scroll down to 2019/2020 data and CSV and XLS documents can be found for both monthly and quarterly publications",
+		"Size": "Small",
+		"Sizing Notes": "Simple table structure and a CSV is available.  May be better suited to a mental health familiy.",
+		"Stage": "Candidate",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":91
+		}
+}

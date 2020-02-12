@@ -1,0 +1,23 @@
+{
+		"Contact Details": "",
+		"Data type": ", XLS, ODS",
+		"Description": "The Work and Health Programme (WHP) predomitly helps disabled people, as well as the long-term unemployed and certain other priority groups to enter into and stay in work.",
+		"Dimensions": "",
+		"Family": "Disabilities",
+		"Frequency": "Quarterly",
+		"Landing Page": "https://www.gov.uk/government/statistics/work-and-health-programme-statistics-to-may-2019",
+		"Last Published": "2019-08-29",
+		"Name": "Work and Health Programme statistics to May 2019",
+		"Next Due": "",
+		"Notes": "",
+		"PMD v3 publication": "http://gss-data.org.uk/dataset?uri=http%3A%2F%2Fgss-data.org.uk%2Fdata%2Fgss_data%2Fdisability%2Fdwp-work-and-health-programme-statistics",
+		"Producer": "Department for Work and Pensions (DWP)",
+		"Route from landing page to data": "",
+		"Size": "Medium",
+		"Sizing Notes": "Simple table structure with multiple dimensions, subdimensions and footnotes.",
+		"Stage": "Prioritized",
+		"Stakeholder Engagement notes": "Yes. Looks like all dimensions, etc. on PMD.",
+		"transform": {
+				"main_issue":89
+		}
+}

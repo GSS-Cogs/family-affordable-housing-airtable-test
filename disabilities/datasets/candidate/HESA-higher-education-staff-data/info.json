@@ -1,0 +1,23 @@
+{
+		"Contact Details": "HESA, 95 Promenade, Cheltenham GL50 1HZ Email official.statistics@hesa.ac.uk  T +44 (0) 1242 211 494",
+		"Data type": ", CSV",
+		"Description": "A wide range of tables and charts about staff employed in higher education.",
+		"Dimensions": "",
+		"Family": "Disabilities",
+		"Frequency": "Annual",
+		"Landing Page": "https://www.hesa.ac.uk/data-and-analysis/staff",
+		"Last Published": "2019-02-01",
+		"Name": "Higher Education Staff Data",
+		"Next Due": "2020-02-01",
+		"Notes": "Open Data source available, so this is potentially an easy win dataset. May fit better with an Education family",
+		"PMD v3 publication": "",
+		"Producer": "Higher Education Statistics Agency (HESA)",
+		"Route from landing page to data": "Data on this page identified via a links towards bottom of page under table column heading table/chart.  Once relevant table link clicked, a data table is presented on anew page, at the bottom of this table is a link to the actual data in CSV form titled Download table (csv) | Download source data (csv).",
+		"Size": "Small",
+		"Sizing Notes": "As far as I can see relevant tables for disabilities seem to be; Table 5: HE academic staff by disability and academic employment function 2014/15 to 2017/18 and when next clicked to reveal further tables, Table 20: HE full-time academic staff by HE provider and contract salary 2014/15 to 2017/18 and Table 16: HE full-time academic staff by cost centre and contract salary 2014/15 to 2017/18. Simple table structure and dimensions. CSV format downloadable.",
+		"Stage": "Candidate",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":49
+		}
+}

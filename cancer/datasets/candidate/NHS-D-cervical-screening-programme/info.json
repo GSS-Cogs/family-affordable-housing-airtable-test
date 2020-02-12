@@ -1,0 +1,23 @@
+{
+		"Contact Details": "Author: Screening & Immunisations Team, NHS Digital Responsible Statistician: Sally Jones 0300 303 5678 enquiries@nhsdigital.nhs.uk",
+		"Data type": ", CSV",
+		"Description": "Women between the ages of 25 and 64 years are invited for regular cervical screening under the NHS Cervical Screening Programme. Coverage is defined as the percentage of women eligible for screening at a given point in time who were screened adequately within a specified period (within 3.5 years for women aged 25 to 49, and within 5.5 years for women aged 50 to 64).",
+		"Dimensions": "",
+		"Family": "Cancer",
+		"Frequency": "Annual",
+		"Landing Page": "https://digital.nhs.uk/data-and-information/publications/statistical/cervical-screening-programme/cervical-screening-programme-coverage-statistics-management-information",
+		"Last Published": "2019-10-18",
+		"Name": "Cervical Screening Programme",
+		"Next Due": "",
+		"Notes": "",
+		"PMD v3 publication": "",
+		"Producer": "NHS Digital (NHS-D)",
+		"Route from landing page to data": "Data can be found on the landing page, there are 6 CSV spreadsheets within the Zip file located under resources.",
+		"Size": "Small",
+		"Sizing Notes": "Simple CSV file.  Potential quick win.",
+		"Stage": "Candidate",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":4
+		}
+}

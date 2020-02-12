@@ -1,0 +1,23 @@
+{
+		"Contact Details": "",
+		"Data type": ", XLS",
+		"Description": "This report contains information on the use of Guardianship under Sections 7 and 37 of the Mental Health Act 1983 during the reporting period 1 April 2016 to 31 March 2018, including a yearly time series since 2003-04.",
+		"Dimensions": "",
+		"Family": "Mental Health",
+		"Frequency": "Annual",
+		"Landing Page": "https://digital.nhs.uk/data-and-information/publications/statistical/guardianship-under-the-mental-health-act-1983/england-2016-17-and-2017-18-national-statistic",
+		"Last Published": "2018-11-20",
+		"Name": "Guardianship under the Mental Health Act 1983, England, 2016-17 and 2017-18, National Statistic",
+		"Next Due": "",
+		"Notes": "",
+		"PMD v3 publication": "",
+		"Producer": "NHS Digital (NHS-D)",
+		"Route from landing page to data": "",
+		"Size": "Medium",
+		"Sizing Notes": "Simple table structures but with double tables in some tabs, multiple dimensions, some subdimensions and footnotes.",
+		"Stage": "Prioritized",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":72
+		}
+}

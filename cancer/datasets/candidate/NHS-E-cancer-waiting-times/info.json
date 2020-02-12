@@ -1,0 +1,23 @@
+{
+		"Contact Details": "",
+		"Data type": ", XLS, CSV",
+		"Description": "This section provides information on the waiting times of people referred by GP with suspected cancer or breast symptoms and those subsequently diagnosed with and treated for cancer by the NHS in England.",
+		"Dimensions": "",
+		"Family": "Cancer",
+		"Frequency": "Monthly  Quarterly Times series  Annual",
+		"Landing Page": "https://www.england.nhs.uk/statistics/statistical-work-areas/cancer-waiting-times/",
+		"Last Published": "",
+		"Name": "Cancer waiting times",
+		"Next Due": "",
+		"Notes": "This landing page contains links to Monthly, Quarterly and Annual cancer waiting times provider and commissioner based.  It also contains commissioner, provider and national cancer waiting times, time series statistics.",
+		"PMD v3 publication": "",
+		"Producer": "NHS England (NHS-E)",
+		"Route from landing page to data": "Please see sizing notes before commencing further work.",
+		"Size": "Needs discussion",
+		"Sizing Notes": "Simple table structure with dimensions and sub-dimensions, some tabs have 3 tables whilst some have only 1 table.  there are a number of different waiting times statistics available and it may take some time to determine which should be used and how many data sets are required. May be better suited to a cancer family.",
+		"Stage": "Candidate",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":59
+		}
+}

@@ -1,0 +1,23 @@
+{
+		"Contact Details": "enquiries@nhsdigital.nhs.uk 0300 303 5678",
+		"Data type": ", XLS, CSV",
+		"Description": "This official statistics report provides the findings from the Mental Capacity Act 2005, Deprivation of Liberty Safeguards (DoLS) data collection for the period 1 April 2017 to 31 March 2018. DoLS are a legal framework that exist to ensure that individuals who lack the mental capacity to consent to the arrangements for their care, where such care may amount to a deprivation of liberty, have the arrangements independently assessed to ensure they are in the best interests of the individual concerned.",
+		"Dimensions": "",
+		"Family": "Mental Health",
+		"Frequency": "Annual",
+		"Landing Page": "https://digital.nhs.uk/data-and-information/publications/statistical/mental-capacity-act-2005-deprivation-of-liberty-safeguards-assessments",
+		"Last Published": "2019-11-21",
+		"Name": "Mental Capacity Act 2005, Deprivation of Liberty Safeguards",
+		"Next Due": "2020-11-21",
+		"Notes": "NHS site detailing Mental Capacity Act 2005, Deprivation of Liberty Safeguards (DoLS) data. Individuals who lack the mental capacity to consent to the arrangements for their care amounts to a deprivation of liberty, have the arrangements independently assessed. Obviously this info would fall under COGS disability data interest. Various data links that would require discussion.",
+		"PMD v3 publication": "",
+		"Producer": "NHS Digital (NHS-D)",
+		"Route from landing page to data": "Data on this page identified via a link at top of page under heading Summary then Latest version. This will link to another page with the latest data, identified on page under heading Resources as a series of tables in XLS and CSV format.",
+		"Size": "Large",
+		"Sizing Notes": "Multiple tables spread across several files. Simple table structures but variations of structures and with multiple dimensions/ subdimensions and footnotes.",
+		"Stage": "Candidate",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":62
+		}
+}

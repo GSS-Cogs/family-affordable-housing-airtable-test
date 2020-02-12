@@ -1,0 +1,23 @@
+{
+		"Contact Details": "Debbie Moon - england.nhsdata@nhs.net",
+		"Data type": ", XLS, CSV",
+		"Description": "The Quarterly Mental Health Community Teams Activity return collects data on the number of patients on Care Programme Approach (CPA) followed up within 7 days of discharge from psychiatric inpatient care, and the number of inpatient admissions gate kept by Crisis Resolution Home Treatment (CRHT) teams.",
+		"Dimensions": "",
+		"Family": "Mental Health",
+		"Frequency": "Quarterly",
+		"Landing Page": "https://www.england.nhs.uk/statistics/statistical-work-areas/mental-health-community-teams-activity/",
+		"Last Published": "2019-11-15",
+		"Name": "Mental Health Community Teams Activity",
+		"Next Due": "",
+		"Notes": "The data is available as a XLS for the time series and both CSV and XLS for the data produced Quarterly",
+		"PMD v3 publication": "",
+		"Producer": "NHS England (NHS-E)",
+		"Route from landing page to data": "Data can be located on the landing page by scrolling down to data  the England Time-Series is available in XLS  and the quarterly data sets are available under the current year 2019 - 20 are available in  both CSV and XLS  formats.",
+		"Size": "Small",
+		"Sizing Notes": "Simple table format with simple dimensions. May be better suited to the mental health family.",
+		"Stage": "Candidate",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":77
+		}
+}

@@ -1,0 +1,23 @@
+{
+		"Contact Details": "",
+		"Data type": ", XLS",
+		"Description": "Includes ranks of the areas for each of 7 distinct types (or domains) of deprivation, which have been combined to produce an overall multiple deprivation measure (MDM) rank of the areas. The MDM ranks of the areas should be considered in conjunction with those for each of the 7 domains in order to gain a comprehensive picture of deprivation.",
+		"Dimensions": "",
+		"Family": "Disabilities",
+		"Frequency": "",
+		"Landing Page": "https://www.nisra.gov.uk/statistics/deprivation/northern-ireland-multiple-deprivation-measure-2017-nimdm2017",
+		"Last Published": "2017-11-23",
+		"Name": "Northern Ireland deprivation",
+		"Next Due": "",
+		"Notes": "This landing page also provides links to Multiple Deprivation Measures in the rest of the UK .",
+		"PMD v3 publication": "",
+		"Producer": "Northern Ireland Statistics and Research Agency (NISRA)",
+		"Route from landing page to data": "",
+		"Size": "Small",
+		"Sizing Notes": "Two XLS files contained in SOA level Results and SA Level Results. Large tables but with simple table structures and dimensions. Only one tab in each table contains disability data.",
+		"Stage": "Prioritized",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":65
+		}
+}

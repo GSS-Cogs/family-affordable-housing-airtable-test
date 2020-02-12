@@ -1,0 +1,23 @@
+{
+		"Contact Details": "Public Health England",
+		"Data type": ", Fingertips, CSV",
+		"Description": "Cancer services profiles: 2018 update of Two Week Wait conversion rate",
+		"Dimensions": "",
+		"Family": "Cancer",
+		"Frequency": "Annual",
+		"Landing Page": "https://fingertips.phe.org.uk/profile/cancerservices",
+		"Last Published": "2019-03-05",
+		"Name": "Cancer services profiles: 2018 update of Two Week Wait conversion rate",
+		"Next Due": "",
+		"Notes": "",
+		"PMD v3 publication": "",
+		"Producer": "Public Health England (PHE)",
+		"Route from landing page to data": "Fingertips Data can be located by clicking on the Green box named 'Start Go to the data' to the right of the introduction.",
+		"Size": "Small",
+		"Sizing Notes": "Fingertips May be better suited to the cancer dataset.",
+		"Stage": "Candidate",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":55
+		}
+}

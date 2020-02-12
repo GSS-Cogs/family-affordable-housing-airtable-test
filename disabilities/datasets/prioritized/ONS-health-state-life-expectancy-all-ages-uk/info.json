@@ -1,0 +1,23 @@
+{
+		"Contact Details": "David Tabor  MHCT.Mail.Box@ons.gov.uk  +44 (0)1633 455871",
+		"Data type": ", XLS",
+		"Description": "Pivot tables for health state life expectancy by sex and area type, divided by two-year intervals starting from 2009 to 2011. Inversely relevant to disability dataset.",
+		"Dimensions": "",
+		"Family": "Disabilities",
+		"Frequency": "Annual",
+		"Landing Page": "https://www.ons.gov.uk/peoplepopulatiodcommunity/healthandsocialcare/healthandlifeexpectancies/datasets/healthstatelifeexpectancyallagesuk",
+		"Last Published": "2019-12-11",
+		"Name": "Health state life expectancy - all ages, UK",
+		"Next Due": "2020-12-11",
+		"Notes": "Several candidate datasets.",
+		"PMD v3 publication": "",
+		"Producer": "Office for National Statistics (ONS)",
+		"Route from landing page to data": "Data on this page identified towards middle-bottom of page, under heading Your download option and Current.",
+		"Size": "Large",
+		"Sizing Notes": "Large amount of data.  Simple table structure, mixture of numbers and percentages.  Could be more than 1 dataset?",
+		"Stage": "Prioritized",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":102
+		}
+}

@@ -1,0 +1,23 @@
+{
+		"Contact Details": "NHS Digital, Information standards service desk, Coding products, 0300 303 4777, information.standards@nhs.net",
+		"Data type": ", CSV",
+		"Description": "Data for this publication are extracted each month as a snapshot in time from the GP Payments system (Open Exeter) maintained by NHS Digital. This release is an accurate snapshot as at 1 December 2019. The dataset consists of six CSV files, all similar in structure and dimensions that should be able to be combined into one dataset.",
+		"Dimensions": "",
+		"Family": "Health - GP",
+		"Frequency": "Monthly",
+		"Landing Page": "https://digital.nhs.uk/data-and-information/publications/statistical/patients-registered-at-a-gp-practice/december-2019",
+		"Last Published": "2019-12-13",
+		"Name": "Patients Registered at a GP Practice December 2019",
+		"Next Due": "2020-01-13",
+		"Notes": "This is part of Patients Registered at a GP Practice",
+		"PMD v3 publication": "",
+		"Producer": "NHS Digital (NHS-D)",
+		"Route from landing page to data": "Data on this page identified as six CSV files in the middle of the page, under the heading Resources.",
+		"Size": "Small",
+		"Sizing Notes": "Large tables but with simple structure and all in CSV format. Although there are six files in total, all are similar in nature and should be able to be combined into one dataset, even with some tables having additional subdimensions to other tables.",
+		"Stage": "Prioritized",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":99
+		}
+}

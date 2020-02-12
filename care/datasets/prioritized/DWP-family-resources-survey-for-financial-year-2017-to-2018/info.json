@@ -1,0 +1,23 @@
+{
+		"Contact Details": "",
+		"Data type": ", XLS, ODS",
+		"Description": "Results from the Family Resources Survey for ficial year 2017 to 2018, providing information on income and circumstances of UK households. Includes a table of Carer information.",
+		"Dimensions": "",
+		"Family": "Care",
+		"Frequency": "Annual",
+		"Landing Page": "https://www.gov.uk/government/statistics/family-resources-survey-ficial-year-201718",
+		"Last Published": "",
+		"Name": "Family Resources Survey for ficial year 2017 to 2018,",
+		"Next Due": "",
+		"Notes": "This relates to Care",
+		"PMD v3 publication": "",
+		"Producer": "Department for Work and Pensions (DWP)",
+		"Route from landing page to data": "",
+		"Size": "Large",
+		"Sizing Notes": "Simple table structure with footnotes, some tabs  have 2 tables with numbers and percentages.and graphs included. Different use of age complicates things.",
+		"Stage": "Prioritized",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":31
+		}
+}

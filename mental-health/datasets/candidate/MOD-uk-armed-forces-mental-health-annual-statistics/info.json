@@ -1,0 +1,23 @@
+{
+		"Contact Details": "Responsible Statistician: Head of Defence Statistics Health  Tel: 030 67984423 DefStrat-Stat-Health-PQ-FOI@mod.gov.uk Further Information/Mailing list: DefStrat-Stat-Health-PQ-FOI@mod.gov.uk ",
+		"Data type": ", XLS",
+		"Description": "Statistical information on mental health among the UK armed forces.",
+		"Dimensions": "",
+		"Family": "Mental Health",
+		"Frequency": "Annual",
+		"Landing Page": "https://www.gov.uk/government/collections/defence-mental-health-statistics-index",
+		"Last Published": "2019-06-20",
+		"Name": "UK armed forces mental health annual statistics",
+		"Next Due": "",
+		"Notes": "",
+		"PMD v3 publication": "",
+		"Producer": "Ministry of Defence (MOD)",
+		"Route from landing page to data": "Data can be located by clicking on the latest publication under Editions.  A XLS spreadsheet and ODS  document are located under documents.",
+		"Size": "Large",
+		"Sizing Notes": "Messy tables with multiple dimensions, subdimensions and footnotes. Some tabs have multiple tables, tabs have different table structures.",
+		"Stage": "Candidate",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":109
+		}
+}

@@ -1,0 +1,23 @@
+{
+		"Contact Details": "",
+		"Data type": ", XLS",
+		"Description": "Life expectancy, healthy life expectancy and disability-free life expectancy – at birth and age 65 by sex for local areas in the UK, 2015 to 2017. Inversely relevant to disability dataset. Similar to above potential dataset but at specific age and by local area.",
+		"Dimensions": "",
+		"Family": "Disabilities",
+		"Frequency": "Annual",
+		"Landing Page": "https://www.ons.gov.uk/peoplepopulatiodcommunity/healthandsocialcare/healthandlifeexpectancies/datasets/healthstatelifeexpectancyatbirthandatage65bylocalareasuk",
+		"Last Published": "2018-12-12",
+		"Name": "Health state life expectancy at birth and at age 65 by local areas, UK",
+		"Next Due": "",
+		"Notes": "Several candidate datasets.",
+		"PMD v3 publication": "",
+		"Producer": "Office for National Statistics (ONS)",
+		"Route from landing page to data": "",
+		"Size": "Small",
+		"Sizing Notes": "Simple table structure with multiple dimensions and some subdimensions.",
+		"Stage": "Candidate",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":80
+		}
+}

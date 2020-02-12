@@ -1,0 +1,23 @@
+{
+		"Contact Details": "Direct Communications Unit 2 Marsham Street London SW1P 4DF Email public.enquiries@homeoffice.gov.uk Tele 020 7035 4848",
+		"Data type": ", ODS",
+		"Description": "Statistics on hate crimes recorded by the police and information on hate crime from the Crime Survey for England and Wales.",
+		"Dimensions": "",
+		"Family": "Disabilities",
+		"Frequency": "Annual",
+		"Landing Page": "https://www.gov.uk/government/collections/hate-crime-statistics",
+		"Last Published": "2019-10-15",
+		"Name": "Hate crime, England and Wales",
+		"Next Due": "2020-10-15",
+		"Notes": "Apendix tables Identifies numbers in a strand of hate crime, includes Disability.  This is just a small Disability figure in a wider dataset",
+		"PMD v3 publication": "",
+		"Producer": "Home Office (HO)",
+		"Route from landing page to data": "Data on this page identified by accessing latest link Hate Crime England And Wales... towards top of page under the heading Documents. The new page thus opened has relevant ODS files under the heading Documents.",
+		"Size": "Needs discussion",
+		"Sizing Notes": "Messy and complex tables with little disability data. Put on hold for further discussion.",
+		"Stage": "Candidate",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":85
+		}
+}

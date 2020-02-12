@@ -1,0 +1,23 @@
+{
+		"Contact Details": "",
+		"Data type": ", XLS",
+		"Description": "Annual estimates of the number of children living in households in the UK where all the adults have not worked for at least 12 months, by highest qualification of all adults in the household.",
+		"Dimensions": "",
+		"Family": "Disabilities",
+		"Frequency": "Annual",
+		"Landing Page": "https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/datasets/hchildrenlivinginlongtermworklesshouseholdsandworklesshouseholdsbydisabilitystatus",
+		"Last Published": "2018-10-31",
+		"Name": "Children living in long-term workless households, by disability status (Table H)",
+		"Next Due": "",
+		"Notes": "Source: Annual Population Survey (Household).",
+		"PMD v3 publication": "http://gss-data.org.uk/dataset?uri=http%3A%2F%2Fgss-data.org.uk%2Fdata%2Fgss_data%2Fdisability%2Fons-children-living-in-long-term-workless-households-by-disability-status",
+		"Producer": "Office for National Statistics (ONS)",
+		"Route from landing page to data": "",
+		"Size": "Small",
+		"Sizing Notes": "Simple table structure with footnotes and 5 tables on the one spreadheet.",
+		"Stage": "Prioritized",
+		"Stakeholder Engagement notes": "Yes. Looks like all dimensions, etc. on PMD.",
+		"transform": {
+				"main_issue":60
+		}
+}

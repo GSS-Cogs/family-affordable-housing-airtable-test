@@ -1,0 +1,23 @@
+{
+		"Contact Details": "",
+		"Data type": ", XLS",
+		"Description": "Information from the school census on pupils with special educational needs (SEN) and SEN provision in schools",
+		"Dimensions": "",
+		"Family": "Special Educational Needs",
+		"Frequency": "",
+		"Landing Page": "https://www.gov.uk/government/statistics/special-educational-needs-in-england-january-2019",
+		"Last Published": "2019-07-04",
+		"Name": "Special educational needs in England: January 2019",
+		"Next Due": "",
+		"Notes": "",
+		"PMD v3 publication": "http://gss-data.org.uk/dataset?uri=http%3A%2F%2Fgss-data.org.uk%2Fdata%2Fgss_data%2Fdisability%2Fdfe-special-educational-needs",
+		"Producer": "Department for Education (DfE)",
+		"Route from landing page to data": "",
+		"Size": "Large",
+		"Sizing Notes": "3 seperate spreadsheets with multiple tabs and multiple 1 tables on some tabs.   Footnotes.  some messiness from numbers and percantages and some work may be required on  determining dimensions.",
+		"Stage": "Prioritized",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":88
+		}
+}

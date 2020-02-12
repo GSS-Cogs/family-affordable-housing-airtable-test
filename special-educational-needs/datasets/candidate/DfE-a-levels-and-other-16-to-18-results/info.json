@@ -1,0 +1,23 @@
+{
+		"Contact Details": "",
+		"Data type": ", XLS",
+		"Description": "Statistics on the attainment of 16- to 19-year-olds in England, including exam results and performance tables.",
+		"Dimensions": "",
+		"Family": "Special Educational Needs",
+		"Frequency": "Annual",
+		"Landing Page": "https://www.gov.uk/government/collections/statistics-attainment-at-19-years",
+		"Last Published": "",
+		"Name": "A levels and other 16 to 18 results",
+		"Next Due": "",
+		"Notes": "Includes figures for pupils attending independant special schools see footnote 21 https://www.gov.uk/government/statistics/a-level-and-other-16-to-18-results-2017-to-2018-revised",
+		"PMD v3 publication": "",
+		"Producer": "Department for Education (DfE)",
+		"Route from landing page to data": "Please see sizing notes before commencing further work.",
+		"Size": "Needs discussion",
+		"Sizing Notes": "Disability info relates to Special Educational Needs (SEN) puppils on only two rows of data. Tables are simple structure but with multiple dimensions, subdimensions and footnotes. Recomend further discussion before proceeding as to the value of return vs resource required.",
+		"Stage": "Candidate",
+		"Stakeholder Engagement notes": "",
+		"transform": {
+				"main_issue":73
+		}
+}
