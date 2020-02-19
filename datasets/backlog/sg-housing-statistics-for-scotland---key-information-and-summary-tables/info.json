@@ -1,0 +1,27 @@
+{
+    "Contact Details": "Scottish Gov",
+    "Data type": [
+        "XLS"
+    ],
+    "Description": "A range of key housing information and summary tables for Scotland and local authority area.\nTable 1-Estimated stock of dwellings by tenure - calendar year time series from 1993 to 2000 and financial year time series from 2001-02 to 2016-17, at Scotland level.\nTable 2-Estimated stock of dwellings by tenure and local authority, most recent year only.",
+    "Family": [
+        "family-affordable-housing-airtable-test"
+    ],
+    "Frequency": "Annual",
+    "Landing Page": "https://www2.gov.scot/Topics/Statistics/Browse/Housing-Regeneration/HSfS/KeyInfoTables",
+    "Last Published": "2019-09-01",
+    "Main Issue": "-100",
+    "Name": "Housing Statistics for Scotland - Key Information and Summary Tables",
+    "Next Due": "2020-09-01",
+    "Notes": "Information from Housing Statistics Annual Returns, and Scottish Household Survey data.\nNote the change in methodology from 2001, fully explained in the notes in the downloadable excel file.",
+    "Producer": [
+        "SG"
+    ],
+    "Producer Engagement": [
+        "recjUg7n7P6GmAbBS"
+    ],
+    "Route from landing page to data": "Data on this page identified under heading \"Downloadable document:\" towards bottom of page.",
+    "Size": "Medium",
+    "Sizing Notes": "Simple table structure and dimensions to extract.  A bit of messiness from Number / percentage and from footnote markers",
+    "Stage": "Backlog"
+}

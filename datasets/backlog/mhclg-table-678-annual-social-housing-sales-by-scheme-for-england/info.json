@@ -1,0 +1,22 @@
+{
+    "Contact Details": "Ministry of Housing,\nCommunities &\nLocal Government",
+    "Data type": [
+        "XLS"
+    ],
+    "Description": "The tables below provide statistics on the sales of social housing stock \u2013 whether owned by local authorities or private registered providers. ",
+    "Family": [
+        "family-affordable-housing-airtable-test"
+    ],
+    "Frequency": "Annual",
+    "Landing Page": "https://www.gov.uk/government/statistical-data-sets/live-tables-on-social-housing-sales",
+    "Last Published": "2019-12-05",
+    "Main Issue": "-100",
+    "Name": "Table 678: annual social housing sales by scheme for England",
+    "Producer": [
+        "MHCLG"
+    ],
+    "Route from landing page to data": "Data can be located by scrolling down to Social housing sales and clicking on the 678 table link ",
+    "Size": "Small",
+    "Sizing Notes": "Simple table structure though with simple subdimension and footnotes.",
+    "Stage": "Backlog"
+}

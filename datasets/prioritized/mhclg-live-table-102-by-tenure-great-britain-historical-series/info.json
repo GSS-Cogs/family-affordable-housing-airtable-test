@@ -1,0 +1,23 @@
+{
+    "Contact Details": "Nicholas Mainwaring\nTelephone  0303 444 2255\nE-Mail:housing.statistics@Communities.gov.uk\n",
+    "Data type": [
+        "XLS"
+    ],
+    "Description": "Table 102: Dwelling stock: by tenure1, Great Britain (historical series)",
+    "Family": [
+        "family-affordable-housing-airtable-test"
+    ],
+    "Frequency": "Annual",
+    "Landing Page": "https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants",
+    "Last Published": "2019-05-24",
+    "Main Issue": "-100",
+    "Name": "Live Table 102: by tenure, Great Britain (historical series)",
+    "Next Due": "2020-05-24",
+    "Producer": [
+        "MHCLG"
+    ],
+    "Route from landing page to data": "Data on this page identified as an excel file under the heading \"Live Tables\" entitled \"Table 102: by tenure, Great Britain (historical series)\" near the top of the page.",
+    "Size": "Medium",
+    "Sizing Notes": "Simple table, but has some odd handling of dates including footnote markers",
+    "Stage": "Prioritized"
+}

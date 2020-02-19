@@ -1,0 +1,27 @@
+{
+    "Contact Details": "Department for Communities\nTelephone: 028 9082 9000\n",
+    "Data type": [
+        "XLS"
+    ],
+    "Description": "The Northern Ireland Housing Statistics report is an annual compendium of statistics containing information on a range of areas relating to housing. The report is divided into sections covering: Private Renting Demand.",
+    "Family": [
+        "family-affordable-housing-airtable-test"
+    ],
+    "Frequency": "Annual",
+    "Landing Page": "https://www.communities-ni.gov.uk/publications/northern-ireland-housing-statistics-2017-18",
+    "Last Published": "2018-12-04",
+    "Main Issue": "-100",
+    "Name": "Northern Ireland Housing Statistics 2017-18: Private Renting Demand",
+    "Next Due": "2019-12-04",
+    "Notes": "Source: Family Resources Survey",
+    "Producer": [
+        "NIDfC"
+    ],
+    "Producer Engagement": [
+        "recyCr4z6KTuinLYp"
+    ],
+    "Route from landing page to data": "Data on this page identified as an Excel file entitled \"Northern Ireland Housing Statistics 2017-18 Section 4 Tables - Private Renting Demand\" under heading \"Documents\".",
+    "Size": "Small",
+    "Sizing Notes": "simple tables.  Needs a little up front work to define dimension handling",
+    "Stage": "Backlog"
+}

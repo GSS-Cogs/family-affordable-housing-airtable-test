@@ -1,0 +1,25 @@
+{
+    "Contact Details": "Scottish Government ",
+    "Data type": [
+        "XLS"
+    ],
+    "Description": "Affordable Housing Supply Programme split by social rent, other affordable rent and affordable home ownership",
+    "Family": [
+        "family-affordable-housing-airtable-test"
+    ],
+    "Frequency": "Quarterly ",
+    "Landing Page": "https://www2.gov.scot/Topics/Statistics/Browse/Housing-Regeneration",
+    "Last Published": "2019-09-24",
+    "Main Issue": "-100",
+    "Name": "Affordable Housing Supply (Scot Gov)",
+    "Producer": [
+        "SG"
+    ],
+    "Producer Engagement": [
+        "recjUg7n7P6GmAbBS"
+    ],
+    "Route from landing page to data": "Data can be located by scrolling to the 'Quarterly Housing Update'  table and clicking on the 'Excel tables - Affordable Housing Supply Programme approvals, starts and completions by social rent, affordable rent, and affordable home ownership and by new build'.  Locate the data in file.",
+    "Size": "Medium",
+    "Sizing Notes": "Straightforward table structure though some work required on mixed dimensions to enable extraction.  A bit of messiness from a couple footnote markers.",
+    "Stage": "Prioritized"
+}

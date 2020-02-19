@@ -1,0 +1,22 @@
+{
+    "Contact Details": "Ministry of Housing,\nCommunities &\nLocal Government",
+    "Data type": [
+        "XLS"
+    ],
+    "Description": "Live tables on house building: new build dwellings completed, by house and flat, number of bedroom and tenure, England",
+    "Family": [
+        "family-affordable-housing-airtable-test"
+    ],
+    "Frequency": "Quarterly",
+    "Landing Page": "https://www.gov.uk/government/statistical-data-sets/live-tables-on-house-building",
+    "Last Published": "2019-10-03",
+    "Main Issue": "-100",
+    "Name": "Table 254: permanent dwellings completed, by house and flat, number of bedroom and tenure, England - MCHLG",
+    "Producer": [
+        "MHCLG"
+    ],
+    "Route from landing page to data": "Data  found on the landing page  by scrolling to table 254 and clicking the link ",
+    "Size": "Medium",
+    "Sizing Notes": "Simple table structure though with some simple subdimension and footnotes. All tabs are similar in structure.",
+    "Stage": "Backlog"
+}

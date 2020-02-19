@@ -1,0 +1,22 @@
+{
+    "Contact Details": "Ministry of Housing,\nCommunities &\nLocal Government",
+    "Data type": [
+        "XLS"
+    ],
+    "Description": "Live tables on house building: new build dwellings started and completed, by tenure, England (quarterly seasonally adjusted)",
+    "Family": [
+        "family-affordable-housing-airtable-test"
+    ],
+    "Frequency": "Quarterly",
+    "Landing Page": "https://www.gov.uk/government/statistical-data-sets/live-tables-on-house-building",
+    "Last Published": "2019-10-03",
+    "Main Issue": "-100",
+    "Name": "Table 222: permanent dwellings started and completed, by tenure, England (quarterly seasonally adjusted) -MCHLG",
+    "Producer": [
+        "MHCLG"
+    ],
+    "Route from landing page to data": "Data  found on the landing page  by scrolling to table 222 and clicking the link ",
+    "Size": "Small",
+    "Sizing Notes": "Simple table structure though with simple subdimension and one footnote.",
+    "Stage": "Backlog"
+}

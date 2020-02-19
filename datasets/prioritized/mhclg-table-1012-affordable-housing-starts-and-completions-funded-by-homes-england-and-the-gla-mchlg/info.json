@@ -1,0 +1,23 @@
+{
+    "Contact Details": "Ministry of Housing,\nCommunities &\nLocal Government",
+    "Data type": [
+        "XLS"
+    ],
+    "Description": "Live tables - 1011S, 1011C",
+    "Family": [
+        "family-affordable-housing-airtable-test"
+    ],
+    "Frequency": "Annual",
+    "Landing Page": "https://www.gov.uk/government/statistical-data-sets/live-tables-on-affordable-housing-supply",
+    "Last Published": "2019-12-03",
+    "Main Issue": "-100",
+    "Name": "Table 1012: affordable housing starts and completions funded by Homes England and the GLA (MCHLG)",
+    "Notes": "Summary table of \"Tables 1006 to 1009: additional affordable homes provided by type of scheme and local authority, England\" but in biannual format.",
+    "Producer": [
+        "MHCLG"
+    ],
+    "Route from landing page to data": "Data found on this landing page under live tables ",
+    "Size": "Small",
+    "Sizing Notes": "Data will be provided direct by MHCLG, so should be simple to work with.",
+    "Stage": "Prioritized"
+}

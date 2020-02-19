@@ -1,0 +1,25 @@
+{
+    "Contact Details": "M A Vaughan, Email: team.frs@dwp.gov.uk\nFamily Resources Survey, DWP Surveys Branch, 2nd Floor, Caxton House, SW1H 9NA\n",
+    "Data type": [
+        "XLS",
+        "ODS"
+    ],
+    "Description": "Results from the Family Resources Survey for financial year 2017 to 2018, providing information on income and circumstances of UK households.",
+    "Family": [
+        "family-affordable-housing-airtable-test"
+    ],
+    "Frequency": "Annual",
+    "Landing Page": "https://www.gov.uk/government/statistics/family-resources-survey-financial-year-201718",
+    "Last Published": "2019-03-28",
+    "Main Issue": "15",
+    "Name": "Family Resources Survey: financial year 2017/18",
+    "Next Due": "2020-03-28",
+    "Notes": "Some tabs are captured in Disabilities",
+    "Producer": [
+        "DWP"
+    ],
+    "Route from landing page to data": "Data on this page identified as multiple tales under the heading \"Documents\" but requires further discussion.",
+    "Size": "Needs discussion",
+    "Sizing Notes": "We are going to discuss getting \"better data\" direct for the FRS in the next couple of weeks, so don't work on yet",
+    "Stage": "Prioritized"
+}

@@ -1,0 +1,23 @@
+{
+    "Contact Details": "Miguel Marques dos Santos, MCHLG, SW1P 4DF, 030 3444 0000\nEmail: housing.statistics@communities.gov.uk",
+    "Data type": [
+        "XLS"
+    ],
+    "Description": "Affordable housing supply statistics (AHS) 2017-18.\nLive tables - 1000, 1000S, 1000C, 1000C\nChart - 1004",
+    "Family": [
+        "family-affordable-housing-airtable-test"
+    ],
+    "Frequency": "Annual",
+    "Landing Page": "https://www.gov.uk/government/statistical-data-sets/live-tables-on-affordable-housing-supply",
+    "Last Published": "2019-06-18",
+    "Main Issue": "-100",
+    "Name": "Table 1000: additional affordable homes provided by type of scheme, England (MHCLG)",
+    "Next Due": "2020-06-18",
+    "Producer": [
+        "MHCLG"
+    ],
+    "Route from landing page to data": "Data on this page identified as an excel file under the heading \"Live Tables\" entitled \"Table 1000: additional affordable homes provided by type of scheme, England\" near the top of the page.",
+    "Size": "Small",
+    "Sizing Notes": "Data will be provided direct by MHCLG, so should be simple to work with.",
+    "Stage": "Prioritized"
+}

@@ -1,0 +1,26 @@
+{
+    "Contact Details": "(028) 9051 5438\nE-mail: asu@communities-ni.gov.uk\nHousing Team: James Sampson, Katie Fulton, Andrew Shiels, Carley Bailie\n",
+    "Data type": [
+        "ODS"
+    ],
+    "Description": "The Northern Ireland Housing Bulletin is a quarterly bulletin containing information on new housing starts and completions, homelessness, the NI House Price Index and new house sales and prices.",
+    "Family": [
+        "family-affordable-housing-airtable-test"
+    ],
+    "Frequency": "Quarterly",
+    "Landing Page": "https://www.communities-ni.gov.uk/publications/northern-ireland-housing-bulletin-january-march-2019",
+    "Last Published": "2019-08-06",
+    "Main Issue": "-100",
+    "Name": "Northern Ireland Housing Bulletin January - March 2019",
+    "Next Due": "2019-11-06",
+    "Producer": [
+        "NIDfC"
+    ],
+    "Producer Engagement": [
+        "recyCr4z6KTuinLYp"
+    ],
+    "Route from landing page to data": "Data on this page identified as an ODS file entitled \"Northern Ireland Housing Bulletin January - March 2019\" under heading \"Documents\".",
+    "Size": "Medium",
+    "Sizing Notes": "Probably 3 datasets.  Tables look simple at first glance, but there is some mixed dimension bits, and some dimension interpretation up front",
+    "Stage": "Prioritized"
+}
